@@ -15,8 +15,11 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="firstFile.c">
-      <Filter>리소스 파일</Filter>
+    <ClCompile Include="for_triangle_star.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="homework.c">
+      <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
