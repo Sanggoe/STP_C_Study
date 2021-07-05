@@ -21,5 +21,20 @@
     <ClCompile Include="homework.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="first.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="data.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="sizeof.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ascii.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
