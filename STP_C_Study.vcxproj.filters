@@ -13,28 +13,37 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\2주차">
+      <UniqueIdentifier>{56441b53-79f8-466f-870a-59f503c3f23b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\3주차">
+      <UniqueIdentifier>{c753e245-5e12-43ec-aa5e-f0f4965bfb63}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="for_triangle_star.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="homework.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="first.c">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="ascii.c">
+      <Filter>소스 파일\2주차</Filter>
     </ClCompile>
     <ClCompile Include="data.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="sizeof.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ascii.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\2주차</Filter>
     </ClCompile>
     <ClCompile Include="exercise.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\2주차</Filter>
+    </ClCompile>
+    <ClCompile Include="first.c">
+      <Filter>소스 파일\2주차</Filter>
+    </ClCompile>
+    <ClCompile Include="for_triangle_star.c">
+      <Filter>소스 파일\2주차</Filter>
+    </ClCompile>
+    <ClCompile Include="homework.c">
+      <Filter>소스 파일\2주차</Filter>
+    </ClCompile>
+    <ClCompile Include="sizeof.c">
+      <Filter>소스 파일\2주차</Filter>
+    </ClCompile>
+    <ClCompile Include="function.c">
+      <Filter>소스 파일\3주차</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
