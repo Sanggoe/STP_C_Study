@@ -7,12 +7,12 @@ void main() {
 	printf("\n");
 
 	for (int i = 0; i < num; i++) {
-		for (int j = 0; j < 5; j++) { // 5를 num으로
+		for (int j = 0; j < num; j++) { // 5를 num으로
 			for (int k = 0; k <= i; k++) {
 				for (int star = 0; star <= j; star++) {
 					printf("*");
 				}
-				for (int blank = 0; blank < 5 - (j+1); blank++) { // 5를 num으로
+				for (int blank = 0; blank < num - (j+1); blank++) { // 5를 num으로
 					printf(" ");
 				}
 			}

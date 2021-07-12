@@ -1,10 +1,8 @@
-#include <stdio.h>
+#include <stdio.h>// 외부 파일 참조
+#include "test.c"
 
-int main() {
-    int sum = addNumbers(10, 20); // 인자
-    printf("%d\n", sum);
-    test();
-    return 0;
+void test() {
+    printf("hello");
 }
 
 int addNumbers(int num1, int num2) { // 매개변수
@@ -12,6 +10,10 @@ int addNumbers(int num1, int num2) { // 매개변수
     return num1 + num2;
 }
 
-void test() {
-    printf("hello");
+int main() {
+    //int sum = addNumbers(10, 20); // 인자
+    printf("%d", test);
+    //printf("%d\n", sum);
+    //test();
+    return 0;
 }
