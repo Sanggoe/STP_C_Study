@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\3주차">
       <UniqueIdentifier>{c753e245-5e12-43ec-aa5e-f0f4965bfb63}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\4주차">
+      <UniqueIdentifier>{74968cc4-0a80-40ff-ac93-9bb5238f94d0}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ascii.c">
@@ -53,6 +56,24 @@
     </ClCompile>
     <ClCompile Include="print.c">
       <Filter>소스 파일\3주차</Filter>
+    </ClCompile>
+    <ClCompile Include="arrAddress.c">
+      <Filter>소스 파일\4주차</Filter>
+    </ClCompile>
+    <ClCompile Include="avg.c">
+      <Filter>소스 파일\4주차</Filter>
+    </ClCompile>
+    <ClCompile Include="randNums.c">
+      <Filter>소스 파일\4주차</Filter>
+    </ClCompile>
+    <ClCompile Include="avg2.c">
+      <Filter>소스 파일\4주차</Filter>
+    </ClCompile>
+    <ClCompile Include="avg3.c">
+      <Filter>소스 파일\4주차</Filter>
+    </ClCompile>
+    <ClCompile Include="빈도.c">
+      <Filter>소스 파일\4주차</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
