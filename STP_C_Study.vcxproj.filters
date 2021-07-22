@@ -75,5 +75,8 @@
     <ClCompile Include="빈도.c">
       <Filter>소스 파일\4주차</Filter>
     </ClCompile>
+    <ClCompile Include="sortArray.c">
+      <Filter>소스 파일\4주차</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
