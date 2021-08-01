@@ -25,6 +25,9 @@
     <Filter Include="소스 파일\5주차">
       <UniqueIdentifier>{caf78abd-91b0-401a-add7-955f189c1a13}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\6주차">
+      <UniqueIdentifier>{29e8610b-75bc-4a6a-87ae-f3d14dc9329d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ascii.c">
@@ -90,42 +93,6 @@
     <ClCompile Include="callByValueReference.c">
       <Filter>소스 파일\5주차</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Users\smpsm\Desktop\상민\School\1학년 2학기 과목\code (.c)\민미경_Pointer\pointer_call_by_reference.c">
-      <Filter>소스 파일\5주차</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\Users\smpsm\Desktop\상민\School\1학년 2학기 과목\code (.c)\민미경_Pointer\pointer_call_by_value.c">
-      <Filter>소스 파일\5주차</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\Users\smpsm\Desktop\상민\School\1학년 2학기 과목\code (.c)\민미경_Pointer\pointer_function.c">
-      <Filter>소스 파일\5주차</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\Users\smpsm\Desktop\상민\School\1학년 2학기 과목\code (.c)\민미경_Pointer\pointer_reverse.c">
-      <Filter>소스 파일\5주차</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\Users\smpsm\Desktop\상민\School\1학년 2학기 과목\code (.c)\민미경_Pointer\pointer1.c">
-      <Filter>소스 파일\5주차</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\Users\smpsm\Desktop\상민\School\1학년 2학기 과목\code (.c)\민미경_Pointer\pointer2.c">
-      <Filter>소스 파일\5주차</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\Users\smpsm\Desktop\상민\School\1학년 2학기 과목\code (.c)\민미경_Pointer\pointer3.c">
-      <Filter>소스 파일\5주차</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\Users\smpsm\Desktop\상민\School\1학년 2학기 과목\code (.c)\민미경_Pointer\pointer4.c">
-      <Filter>소스 파일\5주차</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\Users\smpsm\Desktop\상민\School\1학년 2학기 과목\code (.c)\민미경_Pointer\pointer5.c">
-      <Filter>소스 파일\5주차</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\Users\smpsm\Desktop\상민\School\1학년 2학기 과목\code (.c)\민미경_Pointer\pointer6.c">
-      <Filter>소스 파일\5주차</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\Users\smpsm\Desktop\상민\School\1학년 2학기 과목\code (.c)\민미경_Pointer\pointer7.c">
-      <Filter>소스 파일\5주차</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\Users\smpsm\Desktop\상민\School\1학년 2학기 과목\code (.c)\민미경_Pointer\pointer8.c">
-      <Filter>소스 파일\5주차</Filter>
-    </ClCompile>
     <ClCompile Include="printReference.c">
       <Filter>소스 파일\5주차</Filter>
     </ClCompile>
@@ -138,8 +105,38 @@
     <ClCompile Include="localvaluePointer.c">
       <Filter>소스 파일\5주차</Filter>
     </ClCompile>
-    <ClCompile Include="arrayPointerAccess.c">
-      <Filter>소스 파일\5주차</Filter>
+    <ClCompile Include="..\..\..\Users\smpsm\Desktop\상민\School\1학년 2학기 과목\code (.c)\민미경_pointer_using\array_pointer_01.c">
+      <Filter>소스 파일\6주차</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\smpsm\Desktop\상민\School\1학년 2학기 과목\code (.c)\민미경_pointer_using\function_of_pointer_01.c">
+      <Filter>소스 파일\6주차</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\smpsm\Desktop\상민\School\1학년 2학기 과목\code (.c)\민미경_pointer_using\function_of_pointer_02_array.c">
+      <Filter>소스 파일\6주차</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\smpsm\Desktop\상민\School\1학년 2학기 과목\code (.c)\민미경_pointer_using\n_dimantional_array_01.c">
+      <Filter>소스 파일\6주차</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\smpsm\Desktop\상민\School\1학년 2학기 과목\code (.c)\민미경_pointer_using\n_dimantional_array_02.c">
+      <Filter>소스 파일\6주차</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\smpsm\Desktop\상민\School\1학년 2학기 과목\code (.c)\민미경_pointer_using\pointer_01.c">
+      <Filter>소스 파일\6주차</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\smpsm\Desktop\상민\School\1학년 2학기 과목\code (.c)\민미경_pointer_using\pointer_02.c">
+      <Filter>소스 파일\6주차</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\smpsm\Desktop\상민\School\1학년 2학기 과목\code (.c)\민미경_pointer_using\pointer_03.c">
+      <Filter>소스 파일\6주차</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\smpsm\Desktop\상민\School\1학년 2학기 과목\code (.c)\민미경_pointer_using\pointer_array_01.c">
+      <Filter>소스 파일\6주차</Filter>
+    </ClCompile>
+    <ClCompile Include="pointerQuiz1.c">
+      <Filter>소스 파일\6주차</Filter>
+    </ClCompile>
+    <ClCompile Include="twoPtr.c">
+      <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
