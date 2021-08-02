@@ -1,12 +1,17 @@
 #include <stdio.h>
 
 void main() {
-	int twoArr[2][2] = { {1,2},	{3,4} };
-	int** ptrptr = twoArr; // == &twoArr == twoArr[0] == &twoArr[0] == &twoArr[0][0]
+	int num = 10;
+	int* ptr = &num;
+	int** ptr2 = &ptr;
 
-	printf("twoArr \t\t= %p\n", twoArr);
-	printf("&twoArr \t= %p\n", &twoArr);
-	printf("twoArr[0] \t= %p\n", twoArr[0]);
-	printf("&twoArr[0] \t= %p\n", &twoArr[0]);
-	printf("&twoArr[0][0] \t= %p\n", &twoArr[0][0]);
+	printf("%d == %d == %d \n", num, *ptr, **ptr2);
+	printf("%p == %p == %p \n", &num, ptr, *ptr2);
+	printf("%p == %p \n", &ptr, ptr2);
+
+	*ptr = 20;
+	printf("%d\n", num);
+
+	**ptr2 = 30;
+	printf("%d\n", num);
 }

@@ -136,7 +136,16 @@
       <Filter>소스 파일\6주차</Filter>
     </ClCompile>
     <ClCompile Include="twoPtr.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\6주차</Filter>
+    </ClCompile>
+    <ClCompile Include="arrPtrPrint.c">
+      <Filter>소스 파일\6주차</Filter>
+    </ClCompile>
+    <ClCompile Include="twoPtr2.c">
+      <Filter>소스 파일\6주차</Filter>
+    </ClCompile>
+    <ClCompile Include="stringFrec.c">
+      <Filter>소스 파일\6주차</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
