@@ -28,6 +28,9 @@
     <Filter Include="소스 파일\6주차">
       <UniqueIdentifier>{29e8610b-75bc-4a6a-87ae-f3d14dc9329d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\7주차">
+      <UniqueIdentifier>{a115d340-6ff0-450f-9d92-466a285b1265}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ascii.c">
@@ -146,6 +149,9 @@
     </ClCompile>
     <ClCompile Include="stringFrec.c">
       <Filter>소스 파일\6주차</Filter>
+    </ClCompile>
+    <ClCompile Include="strlen.c">
+      <Filter>소스 파일\7주차</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
