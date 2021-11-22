@@ -1,0 +1,300 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\2주차">
+      <UniqueIdentifier>{9b77b5bb-b0eb-4c54-9ea2-44ca1bd0289e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\2주차\과제">
+      <UniqueIdentifier>{8fb491e9-a54b-455a-af04-a5d4bab78790}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\2주차\스터디">
+      <UniqueIdentifier>{f85b6613-fd71-4784-a5fa-2fd93d5eba2f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\2주차\before">
+      <UniqueIdentifier>{3dc3cec0-da71-47df-84c1-b8055290b5f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\3주차">
+      <UniqueIdentifier>{35787014-26a4-41f1-b85f-f31537064ca1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\3주차\스터디">
+      <UniqueIdentifier>{ae466fe8-1703-4d7c-b040-aabef278951e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\3주차\과제">
+      <UniqueIdentifier>{c9504575-c77a-4b4e-8fe6-a53b80f40115}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\4주차">
+      <UniqueIdentifier>{4dd0dc58-6b7e-4097-8ba9-a6191b5b179c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\4주차\스터디">
+      <UniqueIdentifier>{4c5cac1a-30f3-444a-b903-447bc10b33a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\4주차\과제">
+      <UniqueIdentifier>{31b52d1d-7fa0-4eaa-a2dc-fff6306b886a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\5주차">
+      <UniqueIdentifier>{57181ad9-9e65-4474-a70f-f75bf8222bef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\5주차\스터디">
+      <UniqueIdentifier>{c7694529-3538-4aca-b930-ce7ca6cb3f9e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\5주차\과제">
+      <UniqueIdentifier>{e4493f02-c441-493d-9ab0-e6cc8c0758f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\6주차">
+      <UniqueIdentifier>{9354d432-1956-4fa0-899f-31edc8d7cf2f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\6주차\스터디">
+      <UniqueIdentifier>{794fb18b-6ba6-4623-9a90-699024f6915a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\6주차\과제">
+      <UniqueIdentifier>{83c12380-ab7e-4e56-b90e-df07e9f6a310}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\7주차">
+      <UniqueIdentifier>{90440528-d574-4e07-937d-e1b57eec5192}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\7주차\스터디">
+      <UniqueIdentifier>{452206b3-ca41-478f-a39b-631adea384c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\7주차\과제">
+      <UniqueIdentifier>{00bce5c8-8024-4a0b-acad-4049a73ee8f6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="01.c">
+      <Filter>소스 파일\2주차\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="array.c">
+      <Filter>소스 파일\2주차\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="condition.c">
+      <Filter>소스 파일\2주차\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="random.c">
+      <Filter>소스 파일\2주차\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="sumOfArray.c">
+      <Filter>소스 파일\2주차\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="temp.c">
+      <Filter>소스 파일\2주차\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="window.c">
+      <Filter>소스 파일\2주차\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="hw1.c">
+      <Filter>소스 파일\2주차\과제</Filter>
+    </ClCompile>
+    <ClCompile Include="hw2.c">
+      <Filter>소스 파일\2주차\과제</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\smpsm\Desktop\상민\School\1학년 2학기 과목\프로그래밍 언어\code (.c)\민미경_Array\2array.c">
+      <Filter>소스 파일\2주차\before</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\smpsm\Desktop\상민\School\1학년 2학기 과목\프로그래밍 언어\code (.c)\민미경_Array\2array_add_matrix.c">
+      <Filter>소스 파일\2주차\before</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\smpsm\Desktop\상민\School\1학년 2학기 과목\프로그래밍 언어\code (.c)\민미경_Array\2array_multiple_matrix.c">
+      <Filter>소스 파일\2주차\before</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\smpsm\Desktop\상민\School\1학년 2학기 과목\프로그래밍 언어\code (.c)\민미경_Array\2array_transpose_matrix.c">
+      <Filter>소스 파일\2주차\before</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\smpsm\Desktop\상민\School\1학년 2학기 과목\프로그래밍 언어\code (.c)\민미경_Array\array_book_seat.c">
+      <Filter>소스 파일\2주차\before</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\smpsm\Desktop\상민\School\1학년 2학기 과목\프로그래밍 언어\code (.c)\민미경_Array\array_find_min_and_max.c">
+      <Filter>소스 파일\2주차\before</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\smpsm\Desktop\상민\School\1학년 2학기 과목\프로그래밍 언어\code (.c)\민미경_Array\array_function.c">
+      <Filter>소스 파일\2주차\before</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\smpsm\Desktop\상민\School\1학년 2학기 과목\프로그래밍 언어\code (.c)\민미경_Array\array1.c">
+      <Filter>소스 파일\2주차\before</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\smpsm\Desktop\상민\School\1학년 2학기 과목\프로그래밍 언어\code (.c)\민미경_Array\array2.c">
+      <Filter>소스 파일\2주차\before</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\smpsm\Desktop\상민\School\1학년 2학기 과목\프로그래밍 언어\code (.c)\민미경_Array\array3.c">
+      <Filter>소스 파일\2주차\before</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\smpsm\Desktop\상민\School\1학년 2학기 과목\프로그래밍 언어\code (.c)\민미경_Array\array4.c">
+      <Filter>소스 파일\2주차\before</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\smpsm\Desktop\상민\School\1학년 2학기 과목\프로그래밍 언어\code (.c)\민미경_Array\dice.c">
+      <Filter>소스 파일\2주차\before</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\smpsm\Desktop\상민\School\1학년 2학기 과목\프로그래밍 언어\code (.c)\민미경_Array\finding.c">
+      <Filter>소스 파일\2주차\before</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\smpsm\Desktop\상민\School\1학년 2학기 과목\프로그래밍 언어\code (.c)\민미경_Array\grade_sum_avg.c">
+      <Filter>소스 파일\2주차\before</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\smpsm\Desktop\상민\School\1학년 2학기 과목\프로그래밍 언어\code (.c)\민미경_Array\print_array_function.c">
+      <Filter>소스 파일\2주차\before</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\smpsm\Desktop\상민\School\1학년 2학기 과목\프로그래밍 언어\code (.c)\민미경_Array\read_array_function.c">
+      <Filter>소스 파일\2주차\before</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\smpsm\Desktop\상민\School\1학년 2학기 과목\프로그래밍 언어\code (.c)\민미경_Array\tic_tac_tok.c">
+      <Filter>소스 파일\2주차\before</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\smpsm\Desktop\상민\School\1학년 2학기 과목\프로그래밍 언어\code (.c)\이숙희_Array_Quiz\00.c">
+      <Filter>소스 파일\2주차\before</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\smpsm\Desktop\상민\School\1학년 2학기 과목\프로그래밍 언어\code (.c)\이숙희_Array_Quiz\01.c">
+      <Filter>소스 파일\2주차\before</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\smpsm\Desktop\상민\School\1학년 2학기 과목\프로그래밍 언어\code (.c)\이숙희_Array_Quiz\02.c">
+      <Filter>소스 파일\2주차\before</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\smpsm\Desktop\상민\School\1학년 2학기 과목\프로그래밍 언어\code (.c)\이숙희_Array_Quiz\03.c">
+      <Filter>소스 파일\2주차\before</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\smpsm\Desktop\상민\School\1학년 2학기 과목\프로그래밍 언어\code (.c)\이숙희_Array_Quiz\04.c">
+      <Filter>소스 파일\2주차\before</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\smpsm\Desktop\상민\School\1학년 2학기 과목\프로그래밍 언어\code (.c)\이숙희_Array_Quiz\array_exercise_quiz1.c">
+      <Filter>소스 파일\2주차\before</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\smpsm\Desktop\상민\School\1학년 2학기 과목\프로그래밍 언어\code (.c)\이숙희_Array_Quiz\array_exercise_quiz2.c">
+      <Filter>소스 파일\2주차\before</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\smpsm\Desktop\상민\School\1학년 2학기 과목\프로그래밍 언어\code (.c)\이숙희_Array_Quiz\array_exercise_quiz3.c">
+      <Filter>소스 파일\2주차\before</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Users\smpsm\Desktop\상민\School\1학년 2학기 과목\프로그래밍 언어\code (.c)\이숙희_Array_Quiz\array_simsimhae.c">
+      <Filter>소스 파일\2주차\before</Filter>
+    </ClCompile>
+    <ClCompile Include="hw3.c">
+      <Filter>소스 파일\2주차\과제</Filter>
+    </ClCompile>
+    <ClCompile Include="hw4.c">
+      <Filter>소스 파일\2주차\과제</Filter>
+    </ClCompile>
+    <ClCompile Include="hw5.c">
+      <Filter>소스 파일\2주차\과제</Filter>
+    </ClCompile>
+    <ClCompile Include="hw_.c">
+      <Filter>소스 파일\3주차\과제</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_array.c">
+      <Filter>소스 파일\3주차\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="doublePointer.c">
+      <Filter>소스 파일\3주차\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="doublePointer_array.c">
+      <Filter>소스 파일\3주차\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer.c">
+      <Filter>소스 파일\3주차\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="doublePointer_.c">
+      <Filter>소스 파일\4주차\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="string.c">
+      <Filter>소스 파일\4주차\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="midterm1.c">
+      <Filter>소스 파일\5주차\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="stringtest.c">
+      <Filter>소스 파일\4주차\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="midterm2.c">
+      <Filter>소스 파일\5주차\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="midterm3.c">
+      <Filter>소스 파일\5주차\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="midterm4.c">
+      <Filter>소스 파일\5주차\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="pointerAccess.c">
+      <Filter>소스 파일\5주차\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="tofunctions.c">
+      <Filter>소스 파일\5주차\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="strlen.c">
+      <Filter>소스 파일\5주차\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="strcat.c">
+      <Filter>소스 파일\5주차\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="strcpy.c">
+      <Filter>소스 파일\5주차\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="strcmp.c">
+      <Filter>소스 파일\5주차\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="strstr.c">
+      <Filter>소스 파일\5주차\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="strtok.c">
+      <Filter>소스 파일\5주차\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="argc_argv.c">
+      <Filter>소스 파일\6주차\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="Q1.c">
+      <Filter>소스 파일\6주차\과제</Filter>
+    </ClCompile>
+    <ClCompile Include="homework1.c">
+      <Filter>소스 파일\6주차\과제</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_pointer.c">
+      <Filter>소스 파일\6주차\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_func.c">
+      <Filter>소스 파일\6주차\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="my_atoi.c">
+      <Filter>소스 파일\6주차\과제</Filter>
+    </ClCompile>
+    <ClCompile Include="my_toupper.c">
+      <Filter>소스 파일\6주차\과제</Filter>
+    </ClCompile>
+    <ClCompile Include="struct1.c">
+      <Filter>소스 파일\6주차\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="struct2.c">
+      <Filter>소스 파일\6주차\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="struct3.c">
+      <Filter>소스 파일\6주차\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="struct4.c">
+      <Filter>소스 파일\6주차\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_arr1.c">
+      <Filter>소스 파일\6주차\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_arr2.c">
+      <Filter>소스 파일\6주차\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_swap.c">
+      <Filter>소스 파일\7주차\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_array.c">
+      <Filter>소스 파일\7주차\스터디</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="test.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
