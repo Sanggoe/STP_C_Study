@@ -16,7 +16,7 @@ void main() {
 	profile person[SIZE];
 	puts("우수 사원 기준 : 학점 3.8 이상, 영어 점수 800 이상\n");
 
-	input_data(person, SIZE);
+	input_data(&person[0], SIZE); // &person[0]
 	good_find(person, SIZE);
 }
 void input_data(profile* ps, int size) {
@@ -24,18 +24,18 @@ void input_data(profile* ps, int size) {
 
 	while (i < size) {
 		printf("이름: ");
-		scanf("%s", ps->name);
+		scanf("%s", (ps+i)->name);
 		getchar();
 
 		printf("학점: ");
-		scanf("%lf", &ps->grade);
+		scanf("%lf", &ps[i].grade);
 		getchar();
 		
 		printf("영어점수: ");
-		scanf("%d", &ps->english);
+		scanf("%d", &(ps+i)->english);
 		getchar();
 		puts("");
-		i++, ps++;
+		i++;
 	}
 }
 void good_find(profile* ps, int size) {

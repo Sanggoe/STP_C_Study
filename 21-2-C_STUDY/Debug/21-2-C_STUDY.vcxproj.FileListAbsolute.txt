@@ -1,2 +1,4 @@
 C:\workspace\c\21-2-C_STUDY\Debug\21-2-C_STUDY.exe
 C:\workspace\c\21-2-C_STUDY\Debug\21-2-C_STUDY.pdb
+C:\workspace\c\STP_C_Study\21-2-C_STUDY\Debug\21-2-C_STUDY.exe
+C:\workspace\c\STP_C_Study\21-2-C_STUDY\Debug\21-2-C_STUDY.pdb

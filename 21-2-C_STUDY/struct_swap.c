@@ -9,6 +9,8 @@ typedef struct data {
 void input(data* p); // 주소를 넘겨 직접 접근하는 call by reference
 data swap(data t); // 변수의 값을 복사해서 넘기는 call by value
 void print(data t); // call by value
+
+
 void main() {
 	data t;
 
@@ -16,7 +18,7 @@ void main() {
 	printf("원래 값:");
 	print(t);
 
-	t = swap(t);
+	t = swap(t); // 10, 20
 
 	printf("바뀐 후:");
 	print(t);
