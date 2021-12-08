@@ -67,6 +67,15 @@
     <Filter Include="소스 파일\7주차\과제">
       <UniqueIdentifier>{00bce5c8-8024-4a0b-acad-4049a73ee8f6}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\8주차">
+      <UniqueIdentifier>{cce9dcbc-90c7-45c9-bc1d-01d90e72b130}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\8주차\스터디">
+      <UniqueIdentifier>{b49d0452-f005-490a-9e4b-e08473779186}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\8주차\과제">
+      <UniqueIdentifier>{9a4b085b-c6da-436a-9d9e-04dc58383fe0}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="01.c">
@@ -224,6 +233,21 @@
     </ClCompile>
     <ClCompile Include="exercise2.c">
       <Filter>소스 파일\7주차\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="malloc1_.c">
+      <Filter>소스 파일\8주차\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="file_io2.c">
+      <Filter>소스 파일\8주차\과제</Filter>
+    </ClCompile>
+    <ClCompile Include="io_test.c">
+      <Filter>소스 파일\8주차\스터디</Filter>
+    </ClCompile>
+    <ClCompile Include="file_io3.c">
+      <Filter>소스 파일\8주차\과제</Filter>
+    </ClCompile>
+    <ClCompile Include="file_io4.c">
+      <Filter>소스 파일\8주차\과제</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
